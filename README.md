@@ -1,4 +1,4 @@
-# Orb Project Template update
+# Orb Project Template update 2
 
 [![CircleCI Build Status](https://circleci.com/gh/b-eee/hxbslackorb3.svg?style=shield "CircleCI Build Status")](https://circleci.com/gh/b-eee/hxbslackorb3) [![CircleCI Orb Version](https://badges.circleci.com/orbs/hexabase-dev/hxbslackorb3.svg)](https://circleci.com/orbs/registry/orb/hexabase-dev/hxbslackorb3) [![GitHub License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/b-eee/hxbslackorb3/master/LICENSE) [![CircleCI Community](https://img.shields.io/badge/community-CircleCI%20Discuss-343434.svg)](https://discuss.circleci.com/c/ecosystem/orbs)
 
